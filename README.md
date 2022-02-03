@@ -7,6 +7,7 @@ A real time chat application with users &amp; rooms made by using Socket.io, Nod
 
 ![image](https://user-images.githubusercontent.com/76044767/152359739-3d99baa3-4f9c-43ca-aabc-14ee1f4bfbdb.png)
 
+### Inside the chat room
 
 ![image](https://user-images.githubusercontent.com/76044767/152359575-40065c85-619d-4e58-94b5-2c3ff2e39650.png)
 
